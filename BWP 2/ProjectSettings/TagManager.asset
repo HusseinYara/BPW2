@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: further futher beyond sky
+    uniqueID: 171530195
+    locked: 0
+  - name: further beyond sky
+    uniqueID: 1454936281
+    locked: 0
+  - name: beyond sky
+    uniqueID: 950694311
+    locked: 0
+  - name: sky
+    uniqueID: 4119995945
+    locked: 0
+  - name: back tree
+    uniqueID: 2003941967
+    locked: 0
+  - name: back floor
+    uniqueID: 1737399787
+    locked: 0
+  - name: tree
+    uniqueID: 1042052057
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: flow
+    uniqueID: 388821529
+    locked: 0
